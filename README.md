@@ -20,7 +20,7 @@ To democratize portfolio investing by allowing anyone to create, manage, or inve
 - Automated rebalancing via Chainlink oracles
 - DAO-controlled fund composition changes
 - Integration with yield-generating assets (Yearn, Aave)
-- Cross-chain index funds
+- Cross-chain index funds.
 
 ## Contract Details
 0xabaf21f3f4939fED7293a0970DFa89DC7b29c870
