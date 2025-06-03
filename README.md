@@ -4,24 +4,30 @@
 
 IndexDAO is an on-chain protocol for creating and investing in decentralized token index funds. It enables users to gain exposure to a basket of assets through a single transaction, with automated rebalancing logic and transparent portfolio tracking.
 
-## Project Vision
+Overview
+IndexDAO is a fully on-chain protocol that empowers users to invest in diversified crypto portfolios through decentralized token index funds. With a single transaction, users can gain exposure to a customized basket of tokens, eliminating the need for intermediaries. IndexDAO offers transparent, trustless, and composable investing with built-in features for portfolio tracking and automated management.
 
-To democratize portfolio investing by allowing anyone to create, manage, or invest in a fully decentralized index fund on the blockchain.
+Vision
+To democratize crypto investing by enabling anyone to create, manage, or invest in decentralized index funds — with full control, transparency, and no reliance on centralized fund managers.
 
-## Key Features
+Key Features
+🔁 Single-Transaction Investment – Seamlessly invest in multiple tokens at once.
 
-- Invest in multiple tokens with one transaction
-- Customizable weights and token baskets
-- Simple share-based accounting
-- No intermediary fund managers required
+⚖️ Customizable Token Baskets – Define index weights and token composition.
 
-## Future Scope
+📊 Share-Based Accounting – Tokenized shares represent proportional ownership.
 
-- Automated rebalancing via Chainlink oracles
-- DAO-controlled fund composition changes
-- Integration with yield-generating assets (Yearn, Aave)
-- Cross-chain index funds.
+🔒 No Middlemen – Trustless, self-executing smart contracts manage everything.
 
-## Contract Details
+Future Roadmap
+🔄 Automated Rebalancing – Powered by Chainlink oracles for price feeds.
+
+🗳 DAO Governance – Community-driven updates to index composition and strategy.
+
+📈 Yield Integration – Support for yield-bearing assets via protocols like Aave and Yearn.
+
+🌐 Cross-Chain Expansion – Launch index funds across multiple blockchain ecosystems.
+
+Smart Contract
+Deployed Address:
 0xabaf21f3f4939fED7293a0970DFa89DC7b29c870
-![alt text](image.png)
